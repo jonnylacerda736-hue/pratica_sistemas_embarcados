@@ -1,1 +1,0 @@
-# pratica_sistemas_embarcados
